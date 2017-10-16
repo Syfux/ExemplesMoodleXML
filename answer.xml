@@ -1,0 +1,15 @@
+<question type="shortanswer">
+ <answer fraction="100">
+     <text>The correct answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+ 
+ <question type="shortanswer">
+ <answer fraction="100">
+     <text>The correct answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
+ <answer fraction="100">
+     <text>An alternative answer</text>
+     <feedback><text>Correct!</text></feedback>
+ </answer>
